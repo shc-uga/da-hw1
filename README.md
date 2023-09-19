@@ -20,6 +20,7 @@ Dichotomous Democracy Measure:
 
 ## Q5
 ![q5](https://github.com/shc-uga/da-hw1/blob/main/img/q5.png)
+
 Countries with a greater CPI tend to have higher access to electricity among the population. There is a trend of higher perceived corruption with less access to electricity.
 
 ## Q6
@@ -27,5 +28,6 @@ Countries with a greater CPI tend to have higher access to electricity among the
 
 ## Q7
 ![q7](https://github.com/shc-uga/da-hw1/blob/main/img/q7.png)
+
 Democratic countries, as indicated by the steeper blue line on the graph, tend to have better access to electricity. Contrastingly, non-democratic countries have less access to electricity.
 These democratic states also tend to have less corruption than non-democratic ones. A possible explanation could be that democratic countries oftentimes exhibit checks and balances within the public sector, allowing for better anti-corruption measures.
